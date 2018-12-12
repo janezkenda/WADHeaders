@@ -1,0 +1,6 @@
+[package]
+name = "doom"
+version = "0.1.0"
+authors = ["Janez Kenda <janez.kenda@gmail.com>"]
+
+[dependencies]
